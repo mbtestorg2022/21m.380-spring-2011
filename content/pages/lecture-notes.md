@@ -11,29 +11,329 @@ For your convenience, the course notes are provided in two formats:
     *   References ([PDF]({{< baseurl >}}/resources/mit21m_380s11_lec_ref))
 *   All notes in single file, 219 pages ([PDF - 7.1MB]({{< baseurl >}}/resources/mit21m_380s11_notes))
 
-| SES # | TOPICS | LECTURE NOTES |
-| --- | --- | --- |
-| 1 | Foundations: Live Electronics | ([PDF - 1.5MB]({{< baseurl >}}/resources/mit21m_380s11_lec01)) |
-| 2 | Foundations: Sounds, Signals, Samples, and Encodings {{< br >}}{{< br >}} Pd Tutorial 1 {{< br >}}{{< br >}}  | ([PDF]({{< baseurl >}}/resources/mit21m_380s11_lec02)) |
-| 3 | Foundations: Envelopes, Filters, Modulation, and Mixing {{< br >}}{{< br >}} Pd Tutorial 2 {{< br >}}{{< br >}}  | ([PDF]({{< baseurl >}}/resources/mit21m_380s11_lec03)) |
-| 4 | Foundations: Managing Events, Signals, and Data {{< br >}}{{< br >}} Pd Tutorial 3 {{< br >}}{{< br >}}  | ([PDF]({{< baseurl >}}/resources/mit21m_380s11_lec04)) |
-| 5 | Workshop: Performance and Improvisation | ([PDF]({{< baseurl >}}/resources/mit21m_380s11_lec05)) |
-| 6 | Foundations: Processing and Transforming Sounds {{< br >}}{{< br >}} Pd Tutorial 4 {{< br >}}{{< br >}}  | ([PDF]({{< baseurl >}}/resources/mit21m_380s11_lec06)) |
-| 7 | Workshop: Performance and Improvisation | ([PDF]({{< baseurl >}}/resources/mit21m_380s11_lec07)) |
-| 8 | Practices: The Early History of Live Electronics | ([PDF]({{< baseurl >}}/resources/mit21m_380s11_lec08)) |
-| 9 | Practices: Extending Common Physical Controllers | ([PDF]({{< baseurl >}}/resources/mit21m_380s11_lec09)) |
-| 10 | Workshop: Performance and Improvisation | ([PDF]({{< baseurl >}}/resources/mit21m_380s11_lec10)) |
-| 11 | Practices: Touch Interfaces and OpenSoundControl | ([PDF]({{< baseurl >}}/resources/mit21m_380s11_lec11)) |
-| 12 | Practices: Laptops and Laptop Orchestras | ([PDF]({{< baseurl >}}/resources/mit21m_380s11_lec12)) |
-| 13 | Workshop: Performance and Improvisation | ([PDF]({{< baseurl >}}/resources/mit21m_380s11_lec13)) |
-| 14 | Practices: Analog Electronics and Circuit Bending | ([PDF]({{< baseurl >}}/resources/mit21m_380s11_lec14)) |
-| 15 | Practices: Electronics and Sensors | ([PDF]({{< baseurl >}}/resources/mit21m_380s11_lec15)) |
-| 16 | Workshop: Performance and Improvisation | ([PDF]({{< baseurl >}}/resources/mit21m_380s11_lec16)) |
-| 17 | Practices: Approaches to Composing Improvisations | ([PDF - 1.2MB]({{< baseurl >}}/resources/mit21m_380s11_lec17)) |
-| 18 | Practices: Timing and Networking | ([PDF]({{< baseurl >}}/resources/mit21m_380s11_lec18)) |
-| 19 | Workshop: Performance and Improvisation | ([PDF]({{< baseurl >}}/resources/mit21m_380s11_lec19)) |
-| 20 | Workshop: Performance and Improvisation | ([PDF]({{< baseurl >}}/resources/mit21m_380s11_lec20)) |
-| 21 | Practices: Novel and Custom Interfaces | ([PDF]({{< baseurl >}}/resources/mit21m_380s11_lec21)) |
-| 22 | Workshop: Performance and Improvisation | ([PDF]({{< baseurl >}}/resources/mit21m_380s11_lec22)) |
-| 23 | Practices: Live Coding, Live Algorithms, and Generative Techniques | ([PDF]({{< baseurl >}}/resources/mit21m_380s11_lec23)) |
-| 24 | Class concert performance {{< br >}}{{< br >}} See [assignments]({{< baseurl >}}/pages/assignments) page for video & audio recordings {{< br >}}{{< br >}}  | ([PDF]({{< baseurl >}}/resources/mit21m_380s11_lec24))
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+LECTURE NOTES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Foundations: Live Electronics
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF - 1.5MB]({{< baseurl >}}/resources/mit21m_380s11_lec01))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Foundations: Sounds, Signals, Samples, and Encodings
+
+Pd Tutorial 1
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit21m_380s11_lec02))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Foundations: Envelopes, Filters, Modulation, and Mixing
+
+Pd Tutorial 2
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit21m_380s11_lec03))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Foundations: Managing Events, Signals, and Data
+
+Pd Tutorial 3
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit21m_380s11_lec04))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Workshop: Performance and Improvisation
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit21m_380s11_lec05))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Foundations: Processing and Transforming Sounds
+
+Pd Tutorial 4
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit21m_380s11_lec06))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Workshop: Performance and Improvisation
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit21m_380s11_lec07))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Practices: The Early History of Live Electronics
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit21m_380s11_lec08))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Practices: Extending Common Physical Controllers
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit21m_380s11_lec09))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Workshop: Performance and Improvisation
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit21m_380s11_lec10))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Practices: Touch Interfaces and OpenSoundControl
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit21m_380s11_lec11))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Practices: Laptops and Laptop Orchestras
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit21m_380s11_lec12))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Workshop: Performance and Improvisation
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit21m_380s11_lec13))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Practices: Analog Electronics and Circuit Bending
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit21m_380s11_lec14))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Practices: Electronics and Sensors
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit21m_380s11_lec15))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Workshop: Performance and Improvisation
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit21m_380s11_lec16))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Practices: Approaches to Composing Improvisations
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF - 1.2MB]({{< baseurl >}}/resources/mit21m_380s11_lec17))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Practices: Timing and Networking
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit21m_380s11_lec18))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Workshop: Performance and Improvisation
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit21m_380s11_lec19))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Workshop: Performance and Improvisation
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit21m_380s11_lec20))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Practices: Novel and Custom Interfaces
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit21m_380s11_lec21))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Workshop: Performance and Improvisation
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit21m_380s11_lec22))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Practices: Live Coding, Live Algorithms, and Generative Techniques
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit21m_380s11_lec23))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Class concert performance
+
+See [assignments]({{< baseurl >}}/pages/assignments) page for video & audio recordings
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit21m_380s11_lec24))
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

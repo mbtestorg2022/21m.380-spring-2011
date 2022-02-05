@@ -38,11 +38,51 @@ _Hardware Resources_
 
 This subject requires students to purchase hardware materials costing less than or near $100. These materials must be obtained and brought to every class no later than Meeting 4 (SES #4). Three items are required:
 
-| REQUIRED HARDWARE | RECOMMENDATIONS\*\* |
-| --- | --- |
-| Small portable amplifier, such as a portable keyboard-style amplifier or monitor | Amps made for guitars are not recommended for use with a laptop (such amps often are designed for quieter signals, have distortion and other effects-built in, and generally only support one channel input). The following are in order of preference: {{< br >}}{{< br >}} 1.  Phonic MK15 Keyboard Amp with 3.5mm stereo to RCA male cable (at least 6 feet long).{{< br >}}2.  Behringer Ultratone KT108 15w Keyboard Amplifier with 3.5mm stereo to RCA male cable (at least 6 feet long) and two RCA female to 1/4 inch TS (mono) male adapters.{{< br >}}3.  Altec Lansing iM-237 Orbit Ultraportable Speaker or similar (includes attached cable). {{< br >}}{{< br >}}  |
-| Appropriate cable to connect to a laptop |
-| Dual-analog game controller | Logitech Dual Action Gamepad or closely related dual-analog game controller 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+REQUIRED HARDWARE
+{{< thclose >}}
+{{< thopen >}}
+RECOMMENDATIONS\*\*
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Small portable amplifier, such as a portable keyboard-style amplifier or monitor
+{{< tdclose >}}
+{{< tdopen >}}
+Amps made for guitars are not recommended for use with a laptop (such amps often are designed for quieter signals, have distortion and other effects-built in, and generally only support one channel input). The following are in order of preference:
+
+1.  Phonic MK15 Keyboard Amp with 3.5mm stereo to RCA male cable (at least 6 feet long).
+2.  Behringer Ultratone KT108 15w Keyboard Amplifier with 3.5mm stereo to RCA male cable (at least 6 feet long) and two RCA female to 1/4 inch TS (mono) male adapters.
+3.  Altec Lansing iM-237 Orbit Ultraportable Speaker or similar (includes attached cable).
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Appropriate cable to connect to a laptop
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Dual-analog game controller
+{{< tdclose >}}
+{{< tdopen >}}
+Logitech Dual Action Gamepad or closely related dual-analog game controller
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 \*\* For all other alternatives, please consult with the instructor.
 
@@ -145,19 +185,120 @@ There will not be a final exam for this subject.
 
 The final course grade will be determined from the following components:
 
-| COURSEWORK | GRADE COMPONENT |
-| --- | --- |
-| Reading and Listening Discussion Leaders | 10% |
-| Pd Tutorials | 10% |
-| Controller/Interface/Instrument Design 1 Implementation and Report | 15% |
-| Controller/Interface/Instrument Design 1 Draft | 2.5% |
-| Controller/Interface/Instrument Design 2 Implementation, Report, and Presentation | 20% |
-| Controller/Interface/Instrument Design 2 Draft | 2.5% |
-| Controller/Interface/Instrument Design 2 Proposal | 2.5% |
-| Performance Framework | 10% |
-| Performance Frameworks Draft | 2.5% |
-| Quizzes | 15% |
-| Participation | 10% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+COURSEWORK
+{{< thclose >}}
+{{< thopen >}}
+GRADE COMPONENT
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Reading and Listening Discussion Leaders
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Pd Tutorials
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Controller/Interface/Instrument Design 1 Implementation and Report
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Controller/Interface/Instrument Design 1 Draft
+{{< tdclose >}}
+{{< tdopen >}}
+2.5%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Controller/Interface/Instrument Design 2 Implementation, Report, and Presentation
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Controller/Interface/Instrument Design 2 Draft
+{{< tdclose >}}
+{{< tdopen >}}
+2.5%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Controller/Interface/Instrument Design 2 Proposal
+{{< tdclose >}}
+{{< tdopen >}}
+2.5%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Performance Framework
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Performance Frameworks Draft
+{{< tdclose >}}
+{{< tdopen >}}
+2.5%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Quizzes
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Participation
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Grading policies, the use of grade modifiers, and additional grades will be given in accordance with policies set forth in the MIT Course Bulletin, [Academic Procedures and Institute Regulations](http://catalog.mit.edu/mit/procedures/). Grades are given on written assignments based on the following criteria. An _F_ is given for incorrect, incomplete, and unsatisfactory work that demonstrates neither effort nor critical thought. A _D_ is given for incomplete and unsatisfactory work that demonstrates some effort and minimal critical thought. A _C_ is given for complete and satisfactory work with little or no creative or critical thought. A _B_ is given for thorough, well-written, and well-presented work with some creative and critical thought. An _A_ is given for substantial and creative original work and critical insight, executed without flaw.
 
@@ -180,31 +321,345 @@ Unauthorized use and distribution of student-recorded or transcribed course lect
 {{< anchor "Calendar" >}}{{< /anchor >}}Calendar
 ------------------------------------------------
 
-| SES # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Foundations: Live Electronics | &nbsp; |
-| 2 | Foundations: Sounds, Signals, Samples, and Encodings | &nbsp; |
-| 3 | Foundations: Envelopes, Filters, Modulation, and Mixing | Pd Tutorial 1 due |
-| 4 | Foundations: Managing Events, Signals, and Data |  {{< br >}}{{< br >}} Pd Tutorial 2 due {{< br >}}{{< br >}} Obtain all hardware materials {{< br >}}{{< br >}}  |
-| 5 | Workshop: Performance and Improvisation | Pd Tutorial 3 due |
-| 6 | Foundations: Processing and Transforming Sounds | &nbsp; |
-| 7 | Workshop: Performance and Improvisation | Pd Tutorial 4 due |
-| 8 | Practices: The Early History of Live Electronics | &nbsp; |
-| 9 | Practices: Extending Common Physical Controllers | &nbsp; |
-| 10 | Workshop: Performance and Improvisation | Controller/Interface/Instrument Design 1 Draft due |
-| 11 | Practices: Touch Interfaces and OpenSoundControl | &nbsp; |
-| 12 | Practices: Laptops and Laptop Orchestras | &nbsp; |
-| 13 | Workshop: Performance and Improvisation | Controller/Interface/Instrument Design 1 Report due |
-| 14 | Practices: Analog Electronics and Circuit Bending | &nbsp; |
-| 15 | Practices: Electronics and Sensors | &nbsp; |
-| 16 | Workshop: Performance and Improvisation | &nbsp; |
-| 17 | Practices: Approaches to Composing Improvisations | Controller/Interface/Instrument Design 2 Proposal due |
-| 18 | Practices: Timing and Networking | &nbsp; |
-| 19 | Workshop: Performance and Improvisation | Performance Frameworks Draft due |
-| 20 | Workshop: Performance and Improvisation |  {{< br >}}{{< br >}} Controller/Interface/Instrument Design 2 Draft due {{< br >}}{{< br >}} Performance Frameworks due {{< br >}}{{< br >}}  |
-| 21 | Practices: Novel and Custom Interfaces | &nbsp; |
-| 22 | Workshop: Performance and Improvisation | &nbsp; |
-| 23 | Practices: Live Coding, Live Algorithms, and Generative Techniques | &nbsp; |
-| 24 | Class concert performance | &nbsp; |
-| 25 | Design 2 Presentations | Controller/Interface/Instrument Design 2 Report due |
-| 26 | Design 2 Presentations & final performances |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Foundations: Live Electronics
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Foundations: Sounds, Signals, Samples, and Encodings
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Foundations: Envelopes, Filters, Modulation, and Mixing
+{{< tdclose >}}
+{{< tdopen >}}
+Pd Tutorial 1 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Foundations: Managing Events, Signals, and Data
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Pd Tutorial 2 due
+
+Obtain all hardware materials
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Workshop: Performance and Improvisation
+{{< tdclose >}}
+{{< tdopen >}}
+Pd Tutorial 3 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Foundations: Processing and Transforming Sounds
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Workshop: Performance and Improvisation
+{{< tdclose >}}
+{{< tdopen >}}
+Pd Tutorial 4 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Practices: The Early History of Live Electronics
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Practices: Extending Common Physical Controllers
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Workshop: Performance and Improvisation
+{{< tdclose >}}
+{{< tdopen >}}
+Controller/Interface/Instrument Design 1 Draft due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Practices: Touch Interfaces and OpenSoundControl
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Practices: Laptops and Laptop Orchestras
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Workshop: Performance and Improvisation
+{{< tdclose >}}
+{{< tdopen >}}
+Controller/Interface/Instrument Design 1 Report due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Practices: Analog Electronics and Circuit Bending
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Practices: Electronics and Sensors
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Workshop: Performance and Improvisation
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Practices: Approaches to Composing Improvisations
+{{< tdclose >}}
+{{< tdopen >}}
+Controller/Interface/Instrument Design 2 Proposal due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Practices: Timing and Networking
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Workshop: Performance and Improvisation
+{{< tdclose >}}
+{{< tdopen >}}
+Performance Frameworks Draft due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Workshop: Performance and Improvisation
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Controller/Interface/Instrument Design 2 Draft due
+
+Performance Frameworks due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Practices: Novel and Custom Interfaces
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Workshop: Performance and Improvisation
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Practices: Live Coding, Live Algorithms, and Generative Techniques
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Class concert performance
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Design 2 Presentations
+{{< tdclose >}}
+{{< tdopen >}}
+Controller/Interface/Instrument Design 2 Report due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+Design 2 Presentations & final performances
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
