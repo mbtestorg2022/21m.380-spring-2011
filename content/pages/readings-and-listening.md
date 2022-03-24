@@ -128,9 +128,9 @@ Mori, Ikue. "The Pit & The Pendulum." _Garden_. Tzadik, 1996.
 Workshop: Performance and Improvisation
 {{< tdclose >}}
 {{< tdopen >}}
-Cook, P. "Principles for designing computer music controllers." _Proceedings of the 2001 Conference on New Interfaces for Musical Expression_. National University of Singapore, 2001. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://soundlab.cs.princeton.edu/publications/prc_chi2001.pdf))  
+Cook, P. "Principles for designing computer music controllers." _Proceedings of the 2001 Conference on New Interfaces for Musical Expression_. National University of Singapore, 2001. ([PDF](http://soundlab.cs.princeton.edu/publications/prc_chi2001.pdf))  
   
-Trueman, D. "Why a Laptop Orchestra?" _Organised Sound_ 12, no. 2 (2007): 171-179. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://plork.princeton.edu/papers/WhyALaptopOrchestra.pdf))
+Trueman, D. "Why a Laptop Orchestra?" _Organised Sound_ 12, no. 2 (2007): 171-179. ([PDF](http://plork.princeton.edu/papers/WhyALaptopOrchestra.pdf))
 {{< tdclose >}}
 {{< tdopen >}}
 SuperSilent. "5.1." _SuperSilent_ 5. Rune Grammofon, 2001.  
@@ -202,7 +202,7 @@ Practices: Extending Common Physical Controllers
 {{< tdopen >}}
 Perkis, T. "Some Notes on My Electronic Improvisation Practices." Chapter 8 in _The Oxford Handbook of Computer Music_. Edited by R. T. Dean. Oxford University Press, 2009, pp. 161-166. ISBN: 9780195331615. \[Preview with [Google Books](http://books.google.com/books?id=96ymxXy3wjMC&lpg=PP1&pg=PA161#v=onepage&q&f=false)\]  
   
-Fiebrink, R., G. Wang, and P. Cook. "Don't Forget the Laptop: Using Native Input Capabilities for Expressive Musical Control." _Proceedings of the 2001 Conference on New Interfaces for Musical Expression_. National University of Singapore, 2001, pp. 164-167. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://www.researchgate.net/publication/228699337_Don't_Forget_the_Laptop_Using_Native_Input_Capabilities_for_Expressive_Musical_Control))
+Fiebrink, R., G. Wang, and P. Cook. "Don't Forget the Laptop: Using Native Input Capabilities for Expressive Musical Control." _Proceedings of the 2001 Conference on New Interfaces for Musical Expression_. National University of Singapore, 2001, pp. 164-167. ([PDF](https://www.researchgate.net/publication/228699337_Don't_Forget_the_Laptop_Using_Native_Input_Capabilities_for_Expressive_Musical_Control))
 {{< tdclose >}}
 {{< tdopen >}}
 The Hub. "Cut to Ribbons." _Boundary Layer_. Tzadik, 2007.  
@@ -221,7 +221,7 @@ D-Styles. "Felonius Funk." _Phantazmagorea_. Red Rocket, 2002.
 Workshop: Performance and Improvisation
 {{< tdclose >}}
 {{< tdopen >}}
-Kuivila, R. "Open Sources: Words, Circuits and the Notation-Realization in the Music of David Tudor." _Leonardo Music Journal_ 14 (2004): 17-23. \[Alternate source, 2001 conference version (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.getty.edu/research/exhibitions_events/events/david_tudor_symposium/pdf/kuivila.pdf))\]  
+Kuivila, R. "Open Sources: Words, Circuits and the Notation-Realization in the Music of David Tudor." _Leonardo Music Journal_ 14 (2004): 17-23. \[Alternate source, 2001 conference version ([PDF](http://www.getty.edu/research/exhibitions_events/events/david_tudor_symposium/pdf/kuivila.pdf))\]  
   
 Driscoll, J., and M. Rogalsky. "David Tudor's 'Rainforest': An Evolving Exploration of Resonance." _Leonardo Music Journal_ 14 (2004): 25-30.
 {{< tdclose >}}
@@ -370,7 +370,7 @@ Cardew, Cornelius. "Paragraph 2." _Cardew: The Great Learning / Bedford: Two Poe
 Practices: Timing and Networking
 {{< tdclose >}}
 {{< tdopen >}}
-Rebelo, P., and A. Renaud. 2006. "The Frequencyliator—Distributing Structures for Networked Laptop Improvisation." _Proceedings of New Interfaces for Musical Expression: Network Performance_ (NIME 06). Paris, France. pp. 53-56. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.107.5156&rep=rep1&type=pdf))
+Rebelo, P., and A. Renaud. 2006. "The Frequencyliator—Distributing Structures for Networked Laptop Improvisation." _Proceedings of New Interfaces for Musical Expression: Network Performance_ (NIME 06). Paris, France. pp. 53-56. ([PDF](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.107.5156&rep=rep1&type=pdf))
 {{< tdclose >}}
 {{< tdopen >}}
 Kioku. "Pinari." _Both Far and Near_. Quiet Design Records, 2007. \[Audio and video clips available at [Kioku | Multimedia](http://www.flexatone.net/kioku/music.html)\]  
