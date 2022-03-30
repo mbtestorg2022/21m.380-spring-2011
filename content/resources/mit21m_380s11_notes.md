@@ -5,6 +5,7 @@ description: 'This resource contains information related to foundations: live el
   and improvisation.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/21m-380-music-and-technology-live-electronics-performance-practices-spring-2011/244daae288cd582c5a097c9c03ba2b7f_MIT21M_380S11_notes.pdf
 file_type: application/pdf
+parent_uid: 25fbd1fd-0374-996c-f551-1b1dd2edb624
 resourcetype: Document
 title: MIT21M_380S11_notes.pdf
 uid: 244daae2-88cd-582c-5a09-7c9c03ba2b7f
